@@ -1,2 +1,2 @@
-# Pagination-SearchFeature
+# Pagination
 Created with CodeSandbox
